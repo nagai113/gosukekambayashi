@@ -19,7 +19,7 @@ if ( function_exists( 'add_theme_support' ) ) { // Added in 2.9
   add_image_size('featured-medium',369,196,true);
   add_image_size('featured-small',60,58,true);
   add_image_size('featured-blog',760,291,true);
-  add_image_size('home-post',228,331,true);
+  add_image_size('home-post',225,175,true);
   add_image_size('home-post-iphone',300,331,true);
   add_image_size('home-medium',299,165,true);
   add_image_size('home-small',224,124,true);

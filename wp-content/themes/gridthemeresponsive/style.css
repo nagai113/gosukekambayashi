@@ -24,9 +24,9 @@ a:hover { color:#333; }
 /* Header */
 #header { padding: 10px 0 30px; }
 #menu_container { padding-bottom: 25px; }
-#menu_container ul { list-style-type: none; margin-right: 25px; float: left; }
+#menu_container ul { list-style-type: none; margin-right: 5px; float: right; }
 #menu_container ul li { float: left; }
-#menu_container ul li a { color: #fff; text-decoration: none; background-color: #000; padding: 6px 5px; margin-right: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; display: block; }
+#menu_container ul li a { color: #000; text-decoration: none; background-color: #fff; padding: 6px 5px; margin-right: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; display: block; }
 #menu_container ul li a:hover { background-color: #858585; }
 #menu_container ul li.current-menu-item a, #menu_container ul li.current_page_item a { background-color: #858585; }
 #menu_container input[type=text] { width: 172px; height: 25px; background-color: #000; color: #fff; -moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; float: right; border: none; padding: 0 5px; }
@@ -35,9 +35,9 @@ a:hover { color:#333; }
 .header_social_icons_cont img { float: left; margin-right: 7px; }
 
 /* Content */
-.home_post_cont { float: left; margin-right: 34px; width: 228px; min-height: 331px; margin-bottom: 35px; position: relative; }
+.home_post_cont { float: left; margin-right: 34px; width: 225px; min-height: 175px; margin-bottom: 35px; position: relative; }
 .home_post_cont_last { margin-right: 0; }
-.home_post_cont img { width: 228px; height: 331px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; }
+.home_post_cont img { width: 225px; height: 175px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px; }
 .home_post_cont h3 { font-size: 14px; }
 .home_post_cont h3 a { color: #000; text-decoration: none; }
 .home_post_cont h3 a:hover {  text-decoration: none; color: #666; }
