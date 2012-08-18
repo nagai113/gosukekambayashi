@@ -22,6 +22,6 @@
     </div><!--//single_left-->
     
     
-    <?php get_sidebar(); ?>
+    
     
 <?php get_footer(); ?>
