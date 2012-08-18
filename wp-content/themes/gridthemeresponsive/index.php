@@ -1,13 +1,6 @@
 <?php get_header(); ?>
 
-  <script type="text/javascript" charset="utf-8">
-    $(document).ready(function() {
-      $('.home_post_cont img').hover_caption();
-//      $('.home_small_post_box img').hover_caption();
-//      $('.side_box img').hover_caption();
-    });
-  </script>    
-    
+  
     <div id="content">
     
     <div id="content_inside">
